@@ -1,0 +1,23 @@
+.imgSection{
+  border: 10px solid greenyellow;
+}
+.img{
+margin-left: 10%;
+margin-top: 5%;
+}
+input{
+  height: 21px;
+  width: 200px;
+  background-color: aquamarine;
+  border: 2px solid black;
+  border-radius: 20px;
+}
+input[type="file"] {
+ color: rgb(160, 170, 167);
+}
+
+.file-input {
+  background-color: rgb(14, 8, 8);
+  font-variant: inherit;
+
+}
